@@ -15,4 +15,5 @@ public class City extends DataSupport{
     public int cityCode;
 
     public int provinceId;
+
 }
